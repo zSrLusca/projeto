@@ -1,6 +1,6 @@
 <h1 align=center> Curso Discover RocketSeat </h1>
 <p align=center> Projeto DevLinks realizado nos dias 25/09 - 26/09 </p>
-<img src="./assets/assets/Cover.jpg"></img>
+<img alt="imagem nao encontrada" src="./assets/Cover.jpg"></img>
 <h2>Informações do curso</h2>
 
 <ul> 
