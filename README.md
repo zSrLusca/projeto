@@ -1,7 +1,7 @@
 <h1 align=center> Curso Discover RocketSeat </h1>
 <p align=center> Projeto DevLinks realizado nos dias 25/09 - 26/09 </p>
 <p>
-<img alt="imagem nao encontrada" src=".github/Cover.jpg"></img>
+<img alt="imagem nao encontrada" src=".vscode/.github/Cover.jpg"></img>
 </p>
 
 <h2>Informações do curso</h2>
